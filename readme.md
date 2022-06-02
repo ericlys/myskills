@@ -17,7 +17,9 @@ A simple application of adding skills. To train React Native fundamentals.
 ```
 yarn
 ```
+```
 yarn android
+```
 ```
 yarn start
 ```
